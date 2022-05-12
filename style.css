@@ -1,0 +1,100 @@
+body{
+    font-family: 'poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 120px;
+}
+.link-button{
+    text-decoration: none;
+    font-weight: 700px;
+    background-image: linear-gradient(tomato,orange);
+    padding: 15px 30px;
+   border-radius: 30px;
+   color: white;
+   
+}
+p{
+    font-size: 20px;
+   
+}
+#paragraph-margin{
+    margin-bottom: 40px;
+}
+#image{
+    height: 400px;
+    padding-left: 40%;
+    margin-top: 5%;
+}
+#addedimg{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+
+#textcenter{
+    text-align: center;
+    
+}
+.boxarea{
+    width: 33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px    10px   40px gray;
+    border-radius: 20px;
+}
+.food-item{
+    width: 90%;
+    padding: 5% 5%;
+    
+}
+.paragraph-padding{
+    padding: 5% 5%;
+}
+#content-down{
+    margin-top: 12%;
+}
+.textalign{
+    padding-left: 5%;
+}
+#boxarea{
+    width: 90%;
+    display: flex;
+    margin-left: 5%;
+    box-shadow: 10px    10px   40px gray;
+    border-radius: 20px;
+}
+
+.adjust-div{
+    padding-left: 14%;
+}
+footer{
+    width: 96%;
+    margin-left: 2%;
+
+
+    background-color: black;
+}
+#text-color{
+    color: wheat;
+  
+}
+.paragraph-margin{
+    padding-bottom: 50px;
+    text-align: center;
+}
+.head{
+    padding-top: 20px;
+    text-align: center;
+}
